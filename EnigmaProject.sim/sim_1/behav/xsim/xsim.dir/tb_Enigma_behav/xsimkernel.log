@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_Enigma_behav/xsimk.exe -simmode gui -wdb tb_Enigma_behav.wdb -simrunnum 0 -socket 62451
+Design successfully loaded
+Design Loading Memory Usage: 6812 KB (Peak: 6812 KB)
+Design Loading CPU Usage: 109 ms

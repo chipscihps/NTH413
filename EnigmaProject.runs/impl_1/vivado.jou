@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Aug 29 17:50:31 2024
+# Process ID: 6904
+# Current directory: C:/Users/NTH413/EnigmaProject/EnigmaProject.runs/impl_1
+# Command line: vivado.exe -log MainBlock.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source MainBlock.tcl -notrace
+# Log file: C:/Users/NTH413/EnigmaProject/EnigmaProject.runs/impl_1/MainBlock.vdi
+# Journal file: C:/Users/NTH413/EnigmaProject/EnigmaProject.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source MainBlock.tcl -notrace
